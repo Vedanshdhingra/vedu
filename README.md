@@ -23,13 +23,13 @@ To run **portfolio** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/osamajavaid/portfolio.git
+sudo git clone https://github.com/Vedanshdhingra/vedu.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/osamajavaid/portfolio.git
+git clone https://github.com/Vedanshdhingra/vedu.git
 ```
 
 ### License
