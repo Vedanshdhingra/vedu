@@ -1,22 +1,14 @@
 <div align="center">
-  <br />
-  <br />
-  
-  <img src="./public/readme-images/moj.png" />
 
-  <h2 align="center">Muhammad Osama Javaid - Personal portfolio</h2>
+  <h2 align="center">Vedansh Dhingra - Personal portfolio</h2>
 
 This website is fully responsive personal portfolio, <br />Responsive for all devices, built using Nextjs, TailwindCSS only.
 
-<a href="https://osamajavaid.vercel.app/"><strong>➥ Live Demo</strong></a>
+<a href="https://vedu-five.vercel.app/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
 <br />
-
-### Demo Screeshots
-
-![Osama Portfolio Desktop Demo](./public/readme-images/portfolio.png "Desktop Demo")
 
 ### Prerequisites
 
@@ -39,10 +31,6 @@ Windows:
 ```bash
 git clone https://github.com/osamajavaid/portfolio.git
 ```
-
-### Contact
-
-If you want to contact with me you can reach me at [X](https://www.x.com/iosamajavaid).
 
 ### License
 
