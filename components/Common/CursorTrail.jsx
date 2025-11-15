@@ -105,7 +105,7 @@ const CursorTrail = ({ enabledDefault = true, lengthDefault = 24, sizeDefault = 
   return (
     <>
       <canvas ref={canvasRef} className="fixed top-0 left-0 w-screen h-screen pointer-events-none z-[45000]" />
-      <div className="fixed bottom-4 right-4 z-40">
+      <div className="fixed bottom-4 left-4 sm:left-auto sm:right-4 z-40 hidden md:block">
         <button onClick={() => setOpen(!open)} className="button">Cursor Trail</button>
         {open && (
           <div className="mt-2 p-4 rounded-xl bg-MidNightBlack text-Snow w-64 space-y-3">

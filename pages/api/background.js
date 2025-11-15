@@ -1,4 +1,3 @@
-
 const background = [
     {
         eduCards: [
@@ -38,12 +37,12 @@ const background = [
             },
             {
                 id: 2,
-                title: 'HauzaTech',
-                role: 'Internee',
-                url: 'no website',
-                desc: 'As an Internee, I learned how to use React & JavaScript to build interactive websites.',
-                year: '02/2023 - Present',
-                location: 'Peshawar, Pakistan'
+                title: 'Internship at ElevateLab',
+                role: 'internee',
+                url: '',
+                desc: 'As a frontend developer, I use React & JavaScript to build user interfaces for web applications for this event.',
+                year: '11/2025',
+                location: 'online'
             },
 
         ]

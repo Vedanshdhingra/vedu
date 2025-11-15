@@ -8,7 +8,7 @@ const Footer = () => {
   const address = `${DETAILS.City}, ${DETAILS.Residence}`
 
   return (
-    <footer id="intro" className="relative z-20 mt-8 mb-10 lg:mb-0 bg-MidNightBlack text-LightGray" style={{ contain: 'layout' }}>
+    <footer id="intro" className="relative z-4 mt-12 sm:mt-10 md:mt-8 bg-MidNightBlack text-LightGray" style={{ contain: 'layout' }}>
       <div className="px-4 md:px-8 py-8 grid gap-8 md:grid-cols-4">
         <div className="space-y-2">
           <div className="text-Snow text-base font-bold">{NAME}</div>

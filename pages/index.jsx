@@ -3,12 +3,14 @@ import Banner from '../components/HomeComponents/Banner';
 import Background from '../components/HomeComponents/Background/background';
 const home = () => {
     return (
-        <div className="Home-Page -z-10">
+        <div className="Home-Page flex flex-col min-h-screen space-y-8">
             <Banner />
             <Background />
-            <Footer />
-
+            <div className="mt-auto">
+                <Footer />
+            </div>
         </div>
+
     )
 }
 
